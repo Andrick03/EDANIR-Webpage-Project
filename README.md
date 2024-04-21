@@ -1,6 +1,6 @@
 Edanir Webpage:
-This is a project that updated a previously created website for the company EDANIR that was created with now outdated tools and the point of this project is to modernize the website and update it so it can better fit what the company needs.
 
+This is a project that updated a previously created website for the company EDANIR that was created with now outdated tools and the point of this project is to modernize the website and update it so it can better fit what the company needs.
 
 
 EDANIR IT Solutions:
@@ -24,4 +24,34 @@ Modernized and user-friendly design
 Fully fits both desktop and mobile screens
 
 
+Requerimientos:
 
+1
+
+1
+
+1
+
+
+Instalacion:
+
+1
+
+1
+
+1
+
+
+Configuracion:
+
+1
+
+1
+
+
+Uso:
+
+1
+
+
+Video de demostracion:

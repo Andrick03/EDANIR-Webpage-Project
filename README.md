@@ -1,27 +1,28 @@
 Edanir Webpage:
 
-This is a project that updated a previously created website for the company EDANIR that was created with now outdated tools and the point of this project is to modernize the website and update it so it can better fit what the company needs.
+Este es un proyecto que actualizó un sitio web creado previamente para la empresa EDANIR que se creó con herramientas ahora desactualizadas y el objetivo de este proyecto es modernizar el sitio web y actualizarlo para que se ajuste mejor a las necesidades de la empresa.
 
 
 EDANIR IT Solutions:
 
-This is a company that offers multiple software development services some of which include web design, software and hardware maintenance, and network design and maintenance
-The original website can be visited at https://edanir.com/ and the updated one at https://edanir.com/andrick/
+
+Esta es una empresa que ofrece múltiples servicios de desarrollo de software, algunos de los cuales incluyen diseño web, mantenimiento de software y hardware, y diseño y mantenimiento de redes.
+El sitio web original se puede visitar en https://edanir.com/ y el actualizado en https://edanir.com/andrick/
 
 
-Features:
+Funciones:
 
-Original pictures
+Fotos originales
 
-Original Information
+Información original
 
-Original color scheme
+Esquema de colores originales
 
-Menu that lets the users go directly to any of the sections of the webpage
+Menú que permite a los usuarios ir directamente a cualquiera de las secciones de la página web
 
-Modernized and user-friendly design
+Diseño modernizado y fácil de usar.
 
-Fully fits both desktop and mobile screens
+Se adapta completamente a pantallas de escritorio y móviles
 
 
 Requerimientos:

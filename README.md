@@ -27,32 +27,41 @@ Se adapta completamente a pantallas de escritorio y móviles
 
 Requerimientos:
 
-1
+Web hosting server 
 
-1
+1 GB de almacenamiento
 
-1
+Dominio publico
+
+Linux server
+
+HTML, CSS and Java compatible
 
 
 Instalacion:
 
-1
+Web hosting - servidor compartido ya instalado
 
-1
+Instalar WinSCP en cliente de windows
 
-1
+Instalar Mobirise para diseño de pagina web (html/css)
+
+Instalar Visual Studio Code
 
 
 Configuracion:
 
-1
+Accesar a panel de configuracion de web hosting (CPANEL)
 
-1
+Crear dominio de web
 
+Crear carpeta de domino de web
 
-Uso:
+Crear cuenta de FTP server
 
-1
+Configurar WinSCP con cuenta de ftp server
+
+Subir archivos de pagina web usando WinSCP al servidor de web hosting
 
 
 URL de la pagina:
